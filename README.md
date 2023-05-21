@@ -23,15 +23,15 @@ Once you have Java installed, simply [clone this repository](https://github.com/
 
 >Here's a list of the programs included in this repository:
 >
-**Fibonacci.java**: A program that generates the Fibonacci series up to a given number.
+**[Fibonacci](https://github.com/yeshrikki29/Java/blob/Basic-programs/FibonacciSeries.java)**: A program that generates the Fibonacci series up to a given number.
 
-**Palindrome.java**: A program that checks whether a given string is a palindrome or not.
+[**Palindrome**](https://github.com/yeshrikki29/Java/blob/Basic-programs/PalindromeChecker.java): A program that checks whether a given string is a palindrome or not.
 
-**Factorial.java**: A program that calculates the factorial of a given number.
+**[Factorial](https://github.com/yeshrikki29/Java/blob/Basic-programs/Factorial.java)**: A program that calculates the factorial of a given number.
 
-**ArmstrongNumber.java**: A program that checks whether a given number is an Armstrong number or not.
+**[ArmstrongNumber](https://github.com/yeshrikki29/Java/blob/Basic-programs/ArmstrongNumberChecker.java)**: A program that checks whether a given number is an Armstrong number or not.
 
-**PrimeNumber.java**: A program that checks whether a given number is a prime number or not.
+**[PrimeNumber](https://github.com/yeshrikki29/Java/blob/Basic-programs/PrimeNumberChecker.java)**: A program that checks whether a given number is a prime number or not.
 
 
 ## **Contributing**
