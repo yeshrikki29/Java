@@ -1,5 +1,5 @@
 # Pass By Reference vs. Pass By Value
-> When passing arguments to a method in Java, there are two ways in which the value of the argument can be passed: pass by reference and [pass by value](https://github.com/yeshrikki29/Java/tree/Pass-by-value%7C%7CReference/PASS%20BY%20VALUE). It is important to understand the difference between these two concepts, as they have different implications for how the method will behave.
+> When passing arguments to a method in Java, there are two ways in which the value of the argument can be passed: [pass by reference](https://github.com/yeshrikki29/Java/tree/Pass-by-value%7C%7CReference/PASS%20BY%20REFERENCE) and [pass by value](https://github.com/yeshrikki29/Java/tree/Pass-by-value%7C%7CReference/PASS%20BY%20VALUE). It is important to understand the difference between these two concepts, as they have different implications for how the method will behave.
 
 > ## [***Pass By Value***](https://github.com/yeshrikki29/Java/tree/Pass-by-value%7C%7CReference/PASS%20BY%20VALUE)
 >>**Calling or invoking a method by passing primitive data type.**
@@ -31,9 +31,9 @@ After method call: 5
 ```
 > In the above example, we pass an integer variable num to the square method. Inside the method, the value of n is squared, but this does not affect the original value of num outside the method.
 
-> ## [***Pass By Reference***]()
+> ## [***Pass By Reference***](https://github.com/yeshrikki29/Java/tree/Pass-by-value%7C%7CReference/PASS%20BY%20REFERENCE)
 >> **Calling or invoking a method by passing a Reference variable.**
->>> In pass by reference, a reference to the original object is passed to the method. This means that any changes made to the object inside the method are reflected in the original object outside the method.
+>>> In [pass by reference](https://github.com/yeshrikki29/Java/tree/Pass-by-value%7C%7CReference/PASS%20BY%20REFERENCE), a reference to the original object is passed to the method. This means that any changes made to the object inside the method are reflected in the original object outside the method.
 
 ### *Example:*
 
