@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PrimeNumberChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        try {
         System.out.print("Enter a number to check if it's prime: ");
         int number = scanner.nextInt();
 
@@ -25,7 +25,10 @@ public class PrimeNumberChecker {
         } else {
             System.out.println(number + " is not a prime number");
         }
-
-        scanner.close();
+     } catch (Exception e)  {
+            System.out.println("Invalid input. please enter a valid input.");
+        }   finally {
+           scanner.close();
+        }
     }
 }
