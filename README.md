@@ -33,7 +33,7 @@ Once you have Java installed, simply [clone this repository](https://github.com/
 
 **[PrimeNumber](https://github.com/yeshrikki29/Java/blob/Basic-programs/PrimeNumberChecker.java)**: A program that checks whether a given number is a prime number or not.
 
-**[ArrayManipulation](https://github.com/yeshrikki29/Java/blob/Algorithms/ArrayManipulationProgram.java)**:Array Manipulation Program is a Java console application for performing operations on integer arrays. Insert and delete elements, sort the array, and conduct linear and binary searches.
+
 
 
 ## **Contributing**
